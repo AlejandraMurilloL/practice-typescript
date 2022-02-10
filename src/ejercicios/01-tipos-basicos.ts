@@ -18,5 +18,6 @@ let nombre: string = "Alejandra";
 // Varios Tipos
 let hp: number | string = 95;
 
-// NOTAS: Todo lo que hagamos en Typescript, se traduce a su equivalente en javascript cuando lo pasemos al navegador 
+// ===== NOTAS ===== 
+// Todo lo que hagamos en Typescript, se traduce a su equivalente en javascript cuando lo pasemos al navegador 
 // (Debido a que este entiende js no ts)
